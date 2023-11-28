@@ -19,3 +19,9 @@ Repository for CS417 Parallel Processing course at GIKI for the term Fall 2023.
     * Exploiting Parallelsim, Multithreading
     * [Summing an array](pthreads/)
 
+
+
+# Resources
+
+## SIMD
+[Designing a SIMD Algorithm from Scratch](https://news.ycombinator.com/item?id=38443253)  
